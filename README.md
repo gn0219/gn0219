@@ -2,7 +2,7 @@
   <h1 align="center">Gyuna Kim</h1>
   <h3 align="center">Digital Health & HCI Researcher</h3>
   <p align="center">M.S. Student @ KAIST ICLab</p>
-  <p align="center"><a href="https://gyuna.me">🌐 gyuna.me</a></p>
+  <p align="center">🌐 <a href="https://gyuna.me">gyuna.me</a></p>
 </p>
 
 <h3 align="center">🔍 Research Interests</h3>
