@@ -1,7 +1,6 @@
 <p align="center">
-  <h1 align="center">Gyuna Kim</h1>
+  <h2 align="center">Gyuna Kim</h2>
   <h3 align="center">Digital Health Researcher</h3>
-  <p align="center">M.S. Student @ KAIST ICLab</p>
   <p align="center">🌐 <a href="https://gyuna.me">gyuna.me</a></p>
 </p>
 
@@ -20,5 +19,5 @@
 
 <p align="center">
   📧 gyuna[dot]kim[at]kaist[dot]ac[dot]kr <br/>
-  🔗 <a href="https://www.linkedin.com/in/gyuna/">linkedin</a>  
+  🔗 <a href="https://www.linkedin.com/in/gyuna/">linkedin</a>
 </p>
