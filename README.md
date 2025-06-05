@@ -5,8 +5,6 @@
   <p align="center"><a href="https://gyuna.me">🌐 gyuna.me</a></p>
 </p>
 
----
-
 <h3 align="center">🔍 Research Interests</h3>
 
 <p align="center">
@@ -17,16 +15,12 @@
   Interactive Visualization
 </p>
 
----
-
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
   <strong>Data & Modeling</strong>: Python, PyTorch<br/>
   <strong>Visualization</strong>: matplotlib, seaborn, plotly, Figma
 </p>
-
----
 
 <h3 align="center">📫 Contact</h3>
 
